@@ -1,0 +1,67 @@
+.textareaDescriptor {
+	padding-top: 10px;
+	vertical-align: top;
+}
+
+.projectTitle {
+	-moz-border-radius-bottomleft: 3px;
+	-moz-border-radius-bottomright: 3px;
+	-moz-border-radius-topleft: 3px;
+	-moz-border-radius-topright: 3px;
+	display: inline-block;
+	float: left;
+	font-weight: bold;
+	margin-bottom: 0;
+	margin-right: 10px;
+	margin-left: -2px;
+	min-width: 90px;
+	overflow: hidden;
+	padding: 2px 6px 2px 4px;
+	color: #fff;
+}
+
+.projectTitle a:link,
+.projectTitle a:visited,
+.projectTitle a:hover,
+.projectTitle a:active {
+	color: #fff;
+}
+
+.avatarLink img {
+	width: 20px;
+	height: 20px;
+	border: 0;
+	margin-right: 5px;
+}
+
+.tableCellOne .avatarLink a {
+	
+}
+
+.altTabs a,
+.altTabSelected a {
+	display: block;
+	margin-top: -2px;
+}
+
+.section {
+	margin: 10px; 
+	background-color: #eee;
+	padding: 10px;
+	margin-bottom: 30px;
+}
+
+.attachmentIcon {
+	display: inline;
+	vertical-align: -3px;
+	border: 0;
+	margin-right: 5px;
+}
+
+.icon {
+	display: inline;
+	vertical-align: -3px;
+	border: 0;
+	margin-right: 5px;
+	border: 0;
+}
